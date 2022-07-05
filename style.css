@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+
+.JM {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.hw {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.hw img {
+    width: 80%;
+}
+
+.LB {
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(241, 69, 38));
+    padding: 10px 40px;
+    border-radius: 5%;
+    color: white;
+    font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0%;
+}
